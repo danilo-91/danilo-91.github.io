@@ -1,0 +1,45 @@
+baseURL = 'http://danilo-91.github.io/'
+theme = 'hugo-bearcub'
+copyright = "Daniel Ise (CC BY 4.0)"
+defaultContentLanguage = "es"
+
+# enable robots for SEO
+enableRobotsTXT = true
+
+[author]
+  name = "Daniel Ise"
+
+[markup]
+  [markup.highlight]
+    lineNOs = true
+    lineNumbersInTable = false
+    noClasses = false
+
+[languages]
+  [languages.en]
+    title = "Danilo's Blog"
+    languageName = "en-US 🇺🇸"
+    LanguageCode = "en-US"
+    contentDir = "content.en"
+    [languages.en.params]
+      blogPath = "/en/blog"
+      madeWith = "Made in [Hugo](https://gohugo.io) with [Bear Cub Theme](https://github.com/clente/hugo-bearcub)"
+  [languages.es]
+    title = "Blog de Danilo"
+    languageName = "es-AR 🇦🇷"
+    languageCode = "es"
+    contentDir = "content"
+    [languages.es.params]
+      blogPath = "/es/blog"
+      madeWith = "Hecho en [Hugo](https://gohugo.io) con [Bear Cub Theme](https://github.com/clente/hugo-bearcub)"
+
+[params]
+  description = "Danilo's blog"
+  favicon = "images/favicon.png"
+  title = "Blog de Danilo"
+  dateFormat = "2006-01-02"
+  hideUntranslated = false
+
+[social]
+  email = "ise.daniel@gmail.com"
+  twitter = "iseDaniel"
