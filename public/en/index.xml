@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Danilo&#39;s Blog</title>
+    <link>http://danilo-91.github.io/en/</link>
+    <description>Recent content in Home on Danilo&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Daniel Ise (CC BY 4.0)</copyright>
+    <lastBuildDate>Thu, 09 Mar 2023 18:31:26 -0300</lastBuildDate><atom:link href="http://danilo-91.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://danilo-91.github.io/en/posts/first-post/</link>
+      <pubDate>Thu, 09 Mar 2023 18:31:26 -0300</pubDate>
+      
+      <guid>http://danilo-91.github.io/en/posts/first-post/</guid>
+      <description>A nice test title This is some content in my first post. I&amp;rsquo;ll post more in the near future.
+This is published on my personal Github.</description>
+    </item>
+    
+  </channel>
+</rss>
